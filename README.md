@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Eikan Matsuura 👋
 
-<!--
-**shinzantoyama/shinzantoyama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Business Executive | AI & Digital Transformation
 
-Here are some ideas to get you started:
+📍 Toyama, Japan
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+日本の富山県を拠点に、企業経営とAIを活用した業務改善に取り組んでいます。
+
+### 🚀 My Interests
+
+- AI Agents & Business Automation
+- Human Resources Management Systems
+- Business Process Digitalization
+- Database & Web Application Development
+
+### 🛠 Technologies I'm Exploring
+
+- Python / SQL
+- Google Apps Script
+- Google AppSheet
+- Microsoft Access
+- GitHub & AI Development Tools
+
+### 🎯 My Goal
+
+Building practical AI-powered business management systems that improve productivity and support better business decisions.
